@@ -1,5 +1,6 @@
 # 21_Exoplanet_machine
 Homework, Unit 21 Machine Learning
+
 The models are located in the Instructions folder / starter_code / and then one of the 3 models.
 
 The Support vector machine linear classifier model classified the koi fields to the koi disposition (Candidate, Confirmed, False Positive) with a Training Data Score: 84.7% and Testing Date Score of 84.6%.  After tuning the 'C': [1, 5, 10] and 'gamma': [0.0001, 0.001, 0.01], the best model grid score was 86.9% with C= 10 and gamma of 0.0001. 
