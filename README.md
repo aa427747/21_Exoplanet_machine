@@ -2,7 +2,7 @@
 ## Homework, Unit 21 Machine Learning
 
 ### Background
-Overall, the project is to create Scikit-Learn library to create classification machine learning models to evaluate solar system data.  
+Overall, the project is to use Scikit-Learn library to create classification machine learning models to evaluate solar system data.  
 
 From Instructions README:  Over a period of nine years in deep space, the NASA Kepler space telescope has been out on a planet-hunting mission to discover hidden planets outside of our solar system.  To help process this data, you will create machine learning models capable of classifying candidate exoplanets from the raw dataset.
 
